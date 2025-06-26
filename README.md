@@ -31,9 +31,9 @@
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Sistema de Estoque](https://github.com/lowzudo/sistema-estoque-python) | Simulação de estoque com múltiplas categorias (POO, menus, validação) |
-| [NexBank WebSite](https://github.com/lowzudo/api-financeira-pix-java) | Backend Python + PostgreSQL com funcionalidades bancárias |
-| [Self Quest RPG AINDA EM PRODUÇÃO](https://github.com/lowzudo/self-quest-rpg) | Sistema gamificado inspirado em Solo Leveling e Undertale | Java Spring Boot + React.js
+| [Sistema de Estoque](https://github.com/lowzudo/Armazenamento-de-Estoque) | Simulação de estoque com múltiplas categorias (POO, menus, validação) |
+| [NexBank WebSite]([https://github.com/lowzudo/api-financeira-pix-java](https://github.com/lowzudo/Projeto-NexBank)) | Backend Python + PostgreSQL com funcionalidades bancárias |
+| [Self Quest RPG AINDA EM PRODUÇÃO(Não tem repositório)]() | Sistema gamificado inspirado em Solo Leveling e Undertale | Java Spring Boot + React.js
 
 ---
 
@@ -48,6 +48,6 @@
 
 ## Onde me encontrar
 
-[![Email](https://img.shields.io/badge/-lowzudo@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vs9488874@gmail.com)
+[![Email](https://img.shields.io/badge/-vs9488874@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vs9488874@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorreu)
 <!-- Adicione outras redes se quiser -->
