@@ -32,7 +32,7 @@
 | Projeto | Descrição |
 |--------|-----------|
 | [Sistema de Estoque](https://github.com/lowzudo/Armazenamento-de-Estoque) | Simulação de estoque com múltiplas categorias (POO, menus, validação) |
-| [NexBank WebSite](https://github.com/lowzudo/Projeto-NexBank)(https://github.com/lowzudo/Projeto-NexBank)) | Backend Python + PostgreSQL com funcionalidades bancárias |
+| [NexBank WebSite](https://github.com/lowzudo/Projeto-NexBank)) | Backend Python + PostgreSQL com funcionalidades bancárias |
 | [Self Quest RPG AINDA EM PRODUÇÃO(Não tem repositório)]() | Sistema gamificado inspirado em Solo Leveling e Undertale | Java Spring Boot + React.js
 
 ---
