@@ -1,53 +1,47 @@
-<h1 align="center">Fala aí! Eu sou o Victor, mais conhecido como Low</h1>
-
-<p align="center">
-  Dev em constante evolução •  Viciado em projetos insanos •  Jogador de vôlei nas horas vagas
-</p>
-
----
-
-## Sobre mim
-
-- Estudante de programação e desenvolvimento de sistemas
-- Explorando o mundo do **Back-end com Java/Python** e **Front-end com React**
-- Sempre buscando novos desafios com APIs, automações e projetos pessoais
-- Apaixonado por criar sistemas do zero só pela adrenalina de ver funcionando
-
----
-
-## Tecnologias que tô usando / estudando
-
-<div style="display: flex; gap: 6px; flex-wrap: wrap">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<div align="center">🔥 FALA DEV! EU SOU O VICTOR "LOW" REU 🔥</div>
+<div align="center"> **"Transformando café em código desde 20XX"** ☕💻 *Dev Full-Stack em Construção • Criador de Projetos Insanos • Viciado em Resolver Problemas Complexos* *🏐 Ex-jogador de vôlei, hoje jogo xadrez com o destino (e com bugs)* ♟️ </div>
+🛠️ TECH STACK & FERRAMENTAS
+<div align="center">
+Back-End	Front-End	Banco de Dados	Outras Ferramentas
+https://img.shields.io/badge/Java-%2523ED8B00.svg?style=for-the-badge&logo=java&logoColor=white	https://img.shields.io/badge/React-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB	https://img.shields.io/badge/PostgreSQL-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white	https://img.shields.io/badge/Git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Python-%25233776AB.svg?style=for-the-badge&logo=python&logoColor=white	https://img.shields.io/badge/HTML5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white		https://img.shields.io/badge/Docker-%25232496ED.svg?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Spring-%25236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white	https://img.shields.io/badge/CSS3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white		https://img.shields.io/badge/Postman-%2523FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white
 </div>
+🎯 PROJETOS DESTAQUE (O MELHOR DO MEU GITHUB)
+Projeto	Tecnologias	O que fiz?
+Sistema de Estoque	Java (POO), MySQL	✔ Sistema modular de estoque com CRUD completo
+✔ Validação de dados e menus interativos
+✔ Projeto 100% orientado a objetos
+NexBank (API Financeira)	Python, Flask, PostgreSQL	✔ Simulação de operações bancárias (saque/depósito)
+✔ Autenticação JWT + endpoints REST
+✔ Integração com banco de dados relacional
+Self Quest RPG (EM DESENVOLVIMENTO)	Java Spring Boot, React.js	🚀 RPG inspirado em Solo Leveling/Undertale
+🔥 Sistema de progressão gamificado
+⚡ Próximo lançamento! (Spoilers em breve)
+📊 METRICAS DO GITHUB (MEUS NÚMEROS MÁGICOS)
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=lowzudo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=lowzudo&layout=compact&theme=radical&hide_border=true
 
----
+</div>
+📌 PRINCÍPIOS QUE ME GUIDAM
+💡 "Código limpo > Código esperto"
 
-## Projetos em destaque
+🧠 Aprendizado contínuo > Decoreba
 
-| Projeto | Descrição |
-|--------|-----------|
-| [Sistema de Estoque](https://github.com/lowzudo/Armazenamento-de-Estoque) | Simulação de estoque com múltiplas categorias (POO, menus, validação) |
-| [NexBank WebSite](https://github.com/lowzudo/Projeto-NexBank) | Backend Python + PostgreSQL com funcionalidades bancárias |
-| [Self Quest RPG AINDA EM PRODUÇÃO(Não tem repositório)]() | Sistema gamificado inspirado em Solo Leveling e Undertale | Java Spring Boot + React.js
+🤝 Colaboração > Competição
 
----
+⚡ Automação TUDO que for repetitivo
 
-## GitHub Stats
+📩 VAMOS CONVERSAR?
+<div align="center">
+https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowzudo&show_icons=true&theme=tokyonight&hide=prs" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowzudo&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</div>
+<div align="center">
+"Se o código compila de primeira, desconfie." ✨
 
----
-
-## Onde me encontrar
-
-[![Email](https://img.shields.io/badge/-vs9488874@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vs9488874@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorreu)
-<!-- Adicione outras redes se quiser -->
+</div>
+Créditos: Feito com ❤️ por Low | Atualizado em: 2024
