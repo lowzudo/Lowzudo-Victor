@@ -1,8 +1,8 @@
-# FALA DEV! EU SOU O VICTOR "LOW" REU
+# E AÍ, SOU O VICTOR, MAIS CONHECIDO COMO LOW
 
-**"Transformando café em código desde 20XX"**  
+**"Desde 2024 tenho a habilidade de transformar meu ânimo em código"**  
 Dev Full-Stack em Construção | Criador de Projetos Insanos | Viciado em Resolver Problemas Complexos  
-Ex-jogador de vôlei, hoje jogo xadrez com o destino (e com bugs)
+Ex-jogador de vôlei, porém com a mudança do tempo hoje em dia estou jogando xadrez com o destino (e com bugs)
 
 ---
 
@@ -73,4 +73,11 @@ Ex-jogador de vôlei, hoje jogo xadrez com o destino (e com bugs)
 
 ---
 
-Feito com ❤️ por Low | Atualizado em 2024
+## 💻 CÓDIGO & VIDA
+
+**Codar realmente é maravilhoso (às vezes)**  
+![Gojo Satoru GIF](https://media.tenor.com/l3v8zkUJEKkAAAAM/gojo-satoru.gif)  
+
+---
+
+Feito com carinho por Low | Atualizado em 26/05/2025
