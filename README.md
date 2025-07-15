@@ -32,8 +32,7 @@ Ex-jogador de vôlei, porém com a mudança do tempo hoje em dia estou jogando x
 
 **Sistema de Estoque**  
 [Repositório](https://github.com/lowzudo/Armazenamento-de-Estoque)  
-- Java (POO) + MySQL  
-- CRUD completo com validação de dados  
+- Python (POO)  
 - Sistema modular e orientado a objetos
 
 **NexBank (API Financeira)**  
